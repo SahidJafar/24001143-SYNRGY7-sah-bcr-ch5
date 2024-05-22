@@ -2,6 +2,10 @@
 ## Postman
 https://documenter.getpostman.com/view/19992489/2sA3QnjaSg
 
+## Relasi
+https://dbdiagram.io/d/664dcc9df84ecd1d22d8b69e
+
+
 ## How to use?
 
 ```
